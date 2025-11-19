@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Build / dist folders
+dist/
+build/
+
+# IDE / Editor config
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: toggle config if you consider it sensitive
+toggle-config.json
