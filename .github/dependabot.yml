@@ -8,7 +8,7 @@ updates:
   - package-ecosystem: "npm"
     directory: "/"               # package.json 放的位置
     schedule:
-      interval: "weekly"         # daily | weekly | monthly
+      interval: "daily"         # daily | weekly | monthly
       day: "monday"
     open-pull-requests-limit: 10
     # optional: 分組、忽略規則
